@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security Council Committee established pursuant to resolution 1718 (2006)</title>
+    <link>https://main.un.org/securitycouncil/en/sanctions/1718</link>
+    <description>Key milestones of the 1718 Sanctions Committee (DPRK) and the related Security Council sanctions resolutions. Source: main.un.org/securitycouncil/en/sanctions/1718</description>
+    <language>en</language>
+    <lastBuildDate>Tue, 17 Nov 2026 12:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ahadioui.github.io/flux-1718/flux-1718-committee-en.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>Panel of Experts: mandate ended on 30 April 2024</title>
+      <link>https://main.un.org/securitycouncil/en/sanctions/1718/panel_experts/work_mandate</link>
+      <guid isPermaLink="false">1718-panel-of-experts-end-2024</guid>
+      <pubDate>Tue, 30 Apr 2024 12:00:00 +0000</pubDate>
+      <description>From 2009 to 30 April 2024, the Committee was supported by a Panel of Experts, whose mandate was renewed yearly until that date.</description>
+    </item>
+
+    <item>
+      <title>New designations under resolution 2397 (2017)</title>
+      <link>https://main.un.org/securitycouncil/en/sanctions/1718/materials</link>
+      <guid isPermaLink="false">1718-designations-2018-03-30</guid>
+      <pubDate>Fri, 30 Mar 2018 12:00:00 +0000</pubDate>
+      <description>On 30 March 2018, the Committee designated 1 individual and 21 entities. The 1718 Sanctions List currently holds 80 individuals and 75 entities.</description>
+    </item>
+
+    <item>
+      <title>Resolution 2397 (2017)</title>
+      <link>https://undocs.org/en/S/RES/2397(2017)</link>
+      <guid isPermaLink="false">res-2397</guid>
+      <pubDate>Fri, 22 Dec 2017 12:00:00 +0000</pubDate>
+      <description>Caps on refined petroleum products and crude oil, bans on industrial machinery, metals and other items, and repatriation of DPRK workers abroad.</description>
+    </item>
+
+    <item>
+      <title>Resolution 2375 (2017)</title>
+      <link>https://undocs.org/en/S/RES/2375(2017)</link>
+      <guid isPermaLink="false">res-2375</guid>
+      <pubDate>Mon, 11 Sep 2017 12:00:00 +0000</pubDate>
+      <description>Ban on DPRK textile exports, ban on joint ventures with DPRK entities, and new measures on vessel inspections.</description>
+    </item>
+
+    <item>
+      <title>Resolution 2371 (2017)</title>
+      <link>https://undocs.org/en/S/RES/2371(2017)</link>
+      <guid isPermaLink="false">res-2371</guid>
+      <pubDate>Sat, 05 Aug 2017 12:00:00 +0000</pubDate>
+      <description>Bans on DPRK coal and seafood exports, and an assets freeze applying to designated vessels.</description>
+    </item>
+
+    <item>
+      <title>Resolution 2321 (2016)</title>
+      <link>https://undocs.org/en/S/RES/2321(2016)</link>
+      <guid isPermaLink="false">res-2321</guid>
+      <pubDate>Wed, 30 Nov 2016 12:00:00 +0000</pubDate>
+      <description>Additional financial measures, restrictions on vessels, and bans on statues and new helicopters.</description>
+    </item>
+
+    <item>
+      <title>Resolution 2270 (2016)</title>
+      <link>https://undocs.org/en/S/RES/2270(2016)</link>
+      <guid isPermaLink="false">res-2270</guid>
+      <pubDate>Wed, 02 Mar 2016 12:00:00 +0000</pubDate>
+      <description>Arms embargo catch-all clause, cargo inspections, financial measures and a ban on aviation and rocket fuel.</description>
+    </item>
+
+    <item>
+      <title>Committee designates an additional entity</title>
+      <link>https://main.un.org/securitycouncil/en/sanctions/1718/materials</link>
+      <guid isPermaLink="false">1718-designation-2014-07-28</guid>
+      <pubDate>Mon, 28 Jul 2014 12:00:00 +0000</pubDate>
+      <description>On 28 July 2014, the Committee designated one additional entity.</description>
+    </item>
+
+    <item>
+      <title>Resolution 2094 (2013)</title>
+      <link>https://undocs.org/en/S/RES/2094(2013)</link>
+      <guid isPermaLink="false">res-2094</guid>
+      <pubDate>Thu, 07 Mar 2013 12:00:00 +0000</pubDate>
+      <description>Three new individuals and two new entities designated, and the listing criteria expanded.</description>
+    </item>
+
+    <item>
+      <title>Resolution 2087 (2013)</title>
+      <link>https://undocs.org/en/S/RES/2087(2013)</link>
+      <guid isPermaLink="false">res-2087</guid>
+      <pubDate>Tue, 22 Jan 2013 12:00:00 +0000</pubDate>
+      <description>Four additional individuals and six entities designated, and the listing criteria expanded to cover sanctions evasion.</description>
+    </item>
+
+    <item>
+      <title>Resolution 1874 (2009): Panel of Experts established</title>
+      <link>https://undocs.org/en/S/RES/1874(2009)</link>
+      <guid isPermaLink="false">res-1874</guid>
+      <pubDate>Fri, 12 Jun 2009 12:00:00 +0000</pubDate>
+      <description>The Council establishes the Panel of Experts to support the work of the 1718 Committee.</description>
+    </item>
+
+    <item>
+      <title>Resolution 1718 (2006): Committee established</title>
+      <link>https://undocs.org/en/S/RES/1718(2006)</link>
+      <guid isPermaLink="false">res-1718-adoption</guid>
+      <pubDate>Sat, 14 Oct 2006 12:00:00 +0000</pubDate>
+      <description>The 1718 Committee is established on 14 October 2006 to oversee the sanctions measures relating to the DPRK.</description>
+    </item>
+
+  </channel>
+</rss>
